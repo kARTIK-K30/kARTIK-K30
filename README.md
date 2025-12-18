@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋 I'm Kartik Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Science+Enthusiast;Data+Analysis+%26+Visualization;Learning+DSA+%26+Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;C+%26+C%2B%2B+Programmer;Data+Science+Enthusiast;Prompt+Engineering+Learner;Building+Projects+%26+Learning+DSA" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎯 <b>Python Developer | Data Science Enthusiast</b><br>
-  📊 Passionate about Data Analysis, Visualization & Problem Solving
+  🎯 <b>Python Developer | C & C++ Programmer | Data Science Enthusiast</b><br>
+  📊 Passionate about Data Analysis, Visualization, Problem Solving & Prompt Engineering
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -24,4 +26,62 @@
 ---
 
 ## 🔧 Technical Skills
+
+### 💻 Programming & Markup Languages
+- Python  
+- C  
+- C++  
+- HTML5  
+- CSS3  
+
+### 📊 Libraries & Tools
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Git & GitHub  
+
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (Basics)  
+- Data Analysis & Visualization  
+- Prompt Engineering (Foundations)  
+
+---
+
+## 📌 Projects
+
+### 📊 DataVizDashboard  
+A Python-based data analysis and visualization dashboard that converts raw datasets into meaningful insights using charts and graphs.  
+
+**Tech Used:** Python, Pandas, Matplotlib  
+
+---
+
+### 🧠 Python_OOPS  
+A collection of Python programs demonstrating core Object-Oriented Programming concepts with clean and beginner-friendly examples.  
+
+**Tech Used:** Python  
+
+---
+
+### 🎮 Number Game  
+A logic-based number guessing game developed in Python to strengthen logic-building and problem-solving skills.  
+
+**Tech Used:** Python  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Python  
+- Data Analysis & Dashboard Development  
+- Strengthening DSA using C & C++  
+- Prompt Engineering for AI Tools  
+
+---
+
+## 🤝 Connect with Me
+- GitHub: https://github.com/KARTIK-K30  
+
+⭐ *Feel free to explore my repositories and star the ones you find useful!*
+
 
