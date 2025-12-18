@@ -80,7 +80,9 @@ A logic-based number guessing game developed in Python to strengthen logic-build
 ---
 
 ## 🤝 Connect with Me
-- GitHub: https://github.com/KARTIK-K30  
+- GitHub: https://github.com/KARTIK-K30
+- Instagram: https://www.instagram.com/xo__kaartik__ox
+- Linkedln: https://www.linkedin.com/in/kartik-kumar-42b449324
 
 ⭐ *Feel free to explore my repositories and star the ones you find useful!*
 
