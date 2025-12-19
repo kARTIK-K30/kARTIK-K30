@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm Kartik Kumar</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Kartik Kumar
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;C+%26+C%2B%2B+Programmer;Data+Science+Enthusiast;Prompt+Engineering+Learner;Building+Projects+%26+Learning+DSA" />
@@ -15,15 +17,23 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartik-k30&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=kartik-k30&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 
 ---
 
@@ -82,10 +92,8 @@ A logic-based number guessing game developed in Python to strengthen logic-build
 ---
 
 ## 🤝 Connect with Me
-- GitHub: https://github.com/KARTIK-K30
-- Instagram: https://www.instagram.com/xo__kaartik__ox
-- Linkedln: https://www.linkedin.com/in/kartik-kumar-42b449324
+- GitHub: https://github.com/KARTIK-K30  
+- Instagram: https://www.instagram.com/xo__kaartik__ox  
+- LinkedIn: https://www.linkedin.com/in/kartik-kumar-42b449324  
 
 ⭐ *Feel free to explore my repositories and star the ones you find useful!*
-
-
