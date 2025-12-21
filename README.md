@@ -26,74 +26,88 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-<!-- Stats and Streak side by side -->
+---
+
+## 📊 GitHub Stats & Activity
+
 <p align="center">
+  <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=kARTIK-K30&theme=dracula" width="50%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=kARTIK-K30&theme=dracula" width="48%" />
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kARTIK-K30&theme=dracula" width="80%" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kARTIK-K30&layout=compact&theme=dracula&hide_border=true&langs_count=3" width="30%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kARTIK-K30&layout=compact&theme=dracula&hide_border=true&langs_count=5" width="30%" />
 </p>
+
+---
+
+## 💻 About Me
+I’m Kartik Kumar, a passionate developer and lifelong learner. I enjoy building projects, solving problems, and exploring data to find insights. Currently, I’m focusing on:
+
+- Python development & OOP  
+- Data Analysis, Visualization & Dashboard creation  
+- Enhancing problem-solving & DSA skills using C & C++  
+- Prompt Engineering for AI tools  
 
 ---
 
 ## 🔧 Technical Skills
 
-### 💻 Programming & Markup Languages
-- Python  
-- C  
-- C++  
-- HTML5  
-- CSS3  
+### Languages & Markup
+- Python | C | C++ | HTML5 | CSS3
 
-### 📊 Libraries & Tools
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Git & GitHub  
+### Libraries & Tools
+- Pandas | NumPy | Matplotlib | Git | GitHub | VS Code | Google Colab
 
-### 🧠 Core Concepts
+### Concepts
 - Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms (Basics)  
+- Data Structures & Algorithms (DSA)  
 - Data Analysis & Visualization  
-- Prompt Engineering (Foundations)  
+- Prompt Engineering  
 
 ---
 
 ## 📌 Projects
 
-### 📊 DataVizDashboard  
-A Python-based data analysis and visualization dashboard that converts raw datasets into meaningful insights using charts and graphs.  
-**Tech Used:** Python, Pandas, Matplotlib  
-
-### 🧠 Python_OOPS  
-A collection of Python programs demonstrating core Object-Oriented Programming concepts with clean and beginner-friendly examples.  
+### 🟢 Roommate Task Assigner
+Randomly assigns household tasks to roommates using Python.  
 **Tech Used:** Python  
 
-### 🎮 Number Game  
-A logic-based number guessing game developed in Python to strengthen logic-building and problem-solving skills.  
+### 📊 DataVizDashboard
+Analyzes datasets and visualizes insights through graphs & charts.  
+**Tech Used:** Python, Pandas, Matplotlib  
+
+### 🎮 Number Game
+A logic-based number guessing game to strengthen problem-solving skills.  
+**Tech Used:** Python  
+
+### 🧠 Python_OOPS
+Collection of Python programs demonstrating OOP concepts with beginner-friendly examples.  
 **Tech Used:** Python  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Python  
-- Data Analysis & Dashboard Development  
-- Strengthening DSA using C & C++  
-- Prompt Engineering for AI Tools  
+- Advanced Python & Dashboard Development  
+- Strengthening DSA in C & C++  
+- Advanced Prompt Engineering  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xo__kaartik__ox) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-kumar-42b449324) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaartik2159@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaartik2159@gmail.com)
 
-⭐ *Feel free to explore my repositories and star the ones you find useful!*  
+---
+
+<p align="center">⭐ Feel free to explore my repositories and star the ones you find useful!</p>
