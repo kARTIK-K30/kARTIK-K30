@@ -17,34 +17,30 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
+<!-- Stats and Streak side by side -->
 <p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KARTIK-K30&show_icons=true&theme=dracula&count_private=true&hide_border=false" width="45%" />
-
-  <!-- Streak Stats (Fixed) -->
-  <img src="https://streak-stats.demolab.com/?user=KARTIK-K30&theme=dracula&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kARTIK-K30&theme=dracula" width="50%" />
 </p>
 
-
+<!-- Contribution Graph -->
 <p align="center">
-  <!-- Top Languages (Compact & Small) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIK-K30&layout=compact&theme=dracula&hide_border=true&langs_count=3" width="30%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kARTIK-K30&theme=dracula" width="80%" />
 </p>
 
-
-
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kARTIK-K30&layout=compact&theme=dracula&hide_border=true&langs_count=3" width="30%" />
+</p>
 
 ---
 
@@ -75,21 +71,14 @@
 
 ### 📊 DataVizDashboard  
 A Python-based data analysis and visualization dashboard that converts raw datasets into meaningful insights using charts and graphs.  
-
 **Tech Used:** Python, Pandas, Matplotlib  
-
----
 
 ### 🧠 Python_OOPS  
 A collection of Python programs demonstrating core Object-Oriented Programming concepts with clean and beginner-friendly examples.  
-
 **Tech Used:** Python  
-
----
 
 ### 🎮 Number Game  
 A logic-based number guessing game developed in Python to strengthen logic-building and problem-solving skills.  
-
 **Tech Used:** Python  
 
 ---
