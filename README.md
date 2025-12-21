@@ -31,20 +31,21 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Overall GitHub Stats (auto-refresh every 5 mins) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&theme=dracula&cache_seconds=300" width="48%" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&theme=dracula&count_private=true&cache_seconds=300" width="48%" />
 
-  <!-- Auto-updating Streak Stats -->
-  <img src="./streak.svg" width="48%" />
+  <!-- GitHub Streak Stats -->
+ <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kARTIK-K30&theme=dracula" width="48%" />
+
 </p>
 
 <p align="center">
-  <!-- Contribution Graph (auto-refresh every 5 mins) -->
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kARTIK-K30&theme=dracula&cache_seconds=300" width="80%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages (auto-refresh every 5 mins) -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kARTIK-K30&layout=compact&theme=dracula&langs_count=5&cache_seconds=300" width="30%" />
 </p>
 
