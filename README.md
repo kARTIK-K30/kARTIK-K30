@@ -28,38 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&theme=dracula&cache_seconds=86400"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=kARTIK-K30&theme=dracula&cache_seconds=86400"
-    alt="GitHub Streak"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kARTIK-K30&theme=dracula"
-    alt="GitHub Activity Graph"
-    width="90%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kARTIK-K30&layout=compact&theme=dracula"
-    alt="Top Languages"
-  />
-</p>
-
-
-
 ---
 
 ## 💻 About Me
@@ -93,9 +61,6 @@ I’m Kartik Kumar, a passionate developer and lifelong learner. I enjoy buildin
 ### 🏨 Hotel Management System
 A configuration-driven and secure **Hotel Management System** built using Python and JSON.  
 Includes room booking, customer management, billing, and total payment calculation.  
-
-**Tech Used:** Python, JSON  
-🔗 [Repository Link](https://github.com/kARTIK-K30/HotelManagement)
 
 ### 🟢 Roommate Task Assigner
 Randomly assigns household tasks to roommates using Python.  
